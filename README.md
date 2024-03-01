@@ -58,7 +58,7 @@ Azure AI Service <br>
 <img src="https://github.com/Kunalingle307/translation-app/assets/130652340/419c0326-9893-463b-85dd-41ce066a5ab1" alt="final-project-demo"></img>
 <h3>Resource Visualizer</h3>
 <img src="https://github.com/Kunalingle307/translation-app/assets/130652340/6e72ff2c-d668-4006-986b-60300f360640" alt="resource-display"></img>
-<img src="https://github.com/AnkeetaGupta/flask-ai-translation/blob/main/screenshots/flask-ai.jpg" alt="resource-display"></img>
+<img src="https://github.com/Kunalingle307/translation-app/assets/130652340/140c31c1-fd11-41e4-994f-9f26aeb78e14" alt="resource-display"></img>
 <h2>Final Project Statement</h2>
 <p align="justify">
 The Multilingual Content Hub redefines language connectivity by using seamlessly merging generation and linguistic finesse. This task, empowered by means of Azure's sturdy infrastructure, not most effective tackles language barriers however envisions a destiny wherein verbal exchange transcends borders.</p>
