@@ -52,7 +52,7 @@ Azure AI Service <br>
 <img src="https://github.com/Kunalingle307/translation-app/assets/130652340/b9685c6e-7e83-4bc1-a73b-1ad376ea4377)" alt="azure-mysql-db-service"></img><br>
 <h3>Azure AI Translator Service</h3>
 <b>Description :</b><p align="justify">Azure AI Translator Service is the engine behind the Multilingual Content Hub's language translation capabilities. It employs advanced natural language processing to deliver accurate and contextually relevant translations.</p>
-<img src="https://github.com/AnkeetaGupta/flask-ai-translation/blob/main/screenshots/app-ai.png" alt="azure-translator-ai-service"></img><br>
+<img src="https://github.com/Kunalingle307/translation-app/assets/130652340/71ee131a-38cc-4080-be54-da7368259600" alt="azure-translator-ai-service"></img><br>
 <h3>Working Live Project Display</h3>
 <b>Description :</b><p align="justify">Here I am attaching the final working website's screenshot for the reference.</p>
 <img src="https://github.com/AnkeetaGupta/flask-ai-translation/blob/main/screenshots/final-project.png" alt="final-project-demo"></img>
