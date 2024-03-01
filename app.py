@@ -12,7 +12,7 @@ mydb = mysql.connector.connect(
   host="translation1.mysql.database.azure.com",
   user="translattion1",
   password="kunal@16",
-  database="ai"
+  database="translation"
 )
 
 mycursor = mydb.cursor()
