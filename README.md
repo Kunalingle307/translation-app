@@ -55,7 +55,7 @@ Azure AI Service <br>
 <img src="https://github.com/Kunalingle307/translation-app/assets/130652340/71ee131a-38cc-4080-be54-da7368259600" alt="azure-translator-ai-service"></img><br>
 <h3>Working Live Project Display</h3>
 <b>Description :</b><p align="justify">Here I am attaching the final working website's screenshot for the reference.</p>
-<img src="https://github.com/Kunalingle307/translation-app/assets/130652340/419c0326-9893-463b-85dd-41ce066a5ab1" alt="final-project-demo"></img>
+<img src="https://github.com/Kunalingle307/translation-app/assets/130652340/d906cb1d-b126-4288-b073-969cf2a89d16" alt="final-project-demo"></img>
 <h3>Resource Visualizer</h3>
 <img src="https://github.com/Kunalingle307/translation-app/assets/130652340/6e72ff2c-d668-4006-986b-60300f360640" alt="resource-display"></img>
 <img src="https://github.com/Kunalingle307/translation-app/assets/130652340/140c31c1-fd11-41e4-994f-9f26aeb78e14" alt="resource-display"></img>
