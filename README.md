@@ -55,8 +55,7 @@ Azure AI Service <br>
 <img src="https://github.com/Kunalingle307/translation-app/assets/130652340/71ee131a-38cc-4080-be54-da7368259600" alt="azure-translator-ai-service"></img><br>
 <h3>Working Live Project Display</h3>
 <b>Description :</b><p align="justify">Here I am attaching the final working website's screenshot for the reference.</p>
-<img src="https://github.com/AnkeetaGupta/flask-ai-translation/blob/main/screenshots/final-project.png" alt="final-project-demo"></img>
-
+<img src="https://github.com/Kunalingle307/translation-app/assets/130652340/419c0326-9893-463b-85dd-41ce066a5ab1" alt="final-project-demo"></img>
 <h3>Resource Visualizer</h3>
 <img src="https://github.com/AnkeetaGupta/flask-ai-translation/blob/main/screenshots/flask-ai.jpg" alt="resource-display"></img>
 
