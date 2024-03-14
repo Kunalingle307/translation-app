@@ -3,7 +3,7 @@
 <br>
 <h2>Project Details</h2>
 <b>Project Demo URL :</b> https://translation-app.azurewebsites.net/ <br>
-<b>Demo Video URL :</b> <br>
+<b>Demo Video URL :</b> https://drive.google.com/file/d/1i3_qxetwifAXJDrbyweKWbfekqCWGf-H/view?usp=sharing <br>
 <b>Github Repository URL :</b> https://github.com/Kunalingle307/translation-app <br>
 <b>Industry :</b> Lifestyle and Technology<br>
 <h2>Azure Services Used</h2>
